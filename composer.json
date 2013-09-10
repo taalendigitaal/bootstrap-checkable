@@ -1,0 +1,21 @@
+{
+    "name": "taalendigitaal/bootstrap-checkable",
+    "description": "Bootstrap Checkable",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "prettyCheckable.js"
+            ],
+            "styles": [
+                "prettyCheckable.css"
+            ],
+            "files": [
+                "prettyCheckable-*.png"
+            ]
+        }
+    }
+}
